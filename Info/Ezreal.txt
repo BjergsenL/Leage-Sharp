@@ -1,0 +1,9 @@
+
+Ezreal includet in EasyCarry
+
+13.08.2014 	-- Release
+			- Q Support in lasthit, combo, harrass, laneclear and Killsteal
+			- W Support in combo, harras and Killsteal
+			- R Support in Combo and Killsteal
+			- Drawing Q, W, R
+			- Drawing Killsteal
