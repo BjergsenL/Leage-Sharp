@@ -1,9 +1,10 @@
 
 Ezreal includet in EasyCarry
 
-13.08.2014 	-- Release
-			- Q Support in lasthit, combo, harrass, laneclear and Killsteal
-			- W Support in combo, harras and Killsteal
-			- R Support in Combo and Killsteal
-			- Drawing Q, W, R
-			- Drawing Killsteal
+14.08.2014 	-- Release
+			- LasthitMode with Q supported + Manamanager
+			- Combo with QWR ( R default off )
+			- LaneClear Q Supported ( If enemy in Range his Priority is to Harras ) + Manamanager
+			- Harras with QW + Manamanager
+			- All Spells Predicted, Q use Collision.
+			- R RangeManager ( min / max Range )
