@@ -3,9 +3,14 @@ AutoCarry information
 
 13.08.2014 	-- Release
 
-14.08.2014 	-- v3	
-					- Rewriten Code for faster Calculation
-					- Ezreal Includet.
-					- Rewriten MenuManagement for better Creating Diffrent Menu´s
-					- Manamanager now for all Champs Possible with few easy Parameters
-					- KS-Functions will now Calculate for a Safer kill ( 95% and not 100% )
+14.08.2014 	-- v3
+			- Rewriten Code for faster Calculation
+			- Ezreal Includet.
+			- Rewriten MenuManagement for better Creating Diffrent Menu´s
+			- Manamanager now for all Champs Possible with few easy Parameters
+			- KS-Functions will now Calculate for a Safer kill ( 95% and not 100% )
+
+14.08.2014 -- v4
+			- Fixed Bug ( Calculated R KS with Q Spell o.O)
+			- Fixed bug where Menusettings ( KS with ... ) was beeing iggnored.
+			- Added E to KS mode
