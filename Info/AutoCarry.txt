@@ -14,3 +14,7 @@ AutoCarry information
 			- Fixed Bug ( Calculated R KS with Q Spell o.O)
 			- Fixed bug where Menusettings ( KS with ... ) was beeing iggnored.
 			- Added E to KS mode
+
+15.08.2014 -- v6 ( v5 was a Versionerror so i needed to change to v6 that all get the update )
+			- Released Gnar ( all Spells supported )
+			- Fixed some Bugs with Debug parts who was not delited
