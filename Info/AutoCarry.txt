@@ -18,3 +18,11 @@ AutoCarry information
 15.08.2014 -- v6 ( v5 was a Versionerror so i needed to change to v6 that all get the update )
 			- Released Gnar ( all Spells supported )
 			- Fixed some Bugs with Debug parts who was not delited
+
+20.08.2014 -- v 11 ( sorry not updated List since V6
+			- Hopefully fixed KS bug on Ezreal / Lucian ( if KS active Alltime Cast spells )
+			- Added ItemSupport to Evry Champ & evry coming Champion
+			- Added Autopotions
+			- Added a Menu for Items to Activate/deactivate ( just items who are available on the Map get loaded )
+			- Some little changes, the code will change much next few updates.
+			- Added Items for AntiStun ( a inbuild activator will now use items if you get stunned / snaired )
