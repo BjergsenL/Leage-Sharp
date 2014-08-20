@@ -26,3 +26,7 @@ AutoCarry information
 			- Added a Menu for Items to Activate/deactivate ( just items who are available on the Map get loaded )
 			- Some little changes, the code will change much next few updates.
 			- Added Items for AntiStun ( a inbuild activator will now use items if you get stunned / snaired )
+20.08.2014 -- v 12
+			- Temp. Disabled All KS functions ( some misscalculations in Commonlib )
+			- Added SummonerSpell Heal
+			- Added SummonerSpell Barrier
