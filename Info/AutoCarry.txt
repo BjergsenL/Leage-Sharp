@@ -30,3 +30,10 @@ AutoCarry information
 			- Temp. Disabled All KS functions ( some misscalculations in Commonlib )
 			- Added SummonerSpell Heal
 			- Added SummonerSpell Barrier
+30.08.2014 -- v20
+			- longtime no ChangeLogs again :(
+			- Added a Hud for Resolution 1920x1080
+			- All Champion Fixed
+			- Gnar much better now
+			- Added Morgana
+			- and alot of other things
