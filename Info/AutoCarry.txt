@@ -37,3 +37,12 @@ AutoCarry information
 			- Gnar much better now
 			- Added Morgana
 			- and alot of other things
+01.09.2014 -- v26
+			- Added Teemo in v20
+			- Added a new ComboRoutine to Zed in v24
+			- fixed a Bug from zed follow 
+			- Added Teemo Q-Reset ( AA Q AA as basic )
+			- Added Alot Items ( you see it ingame in Supported items menu )
+			- Added SummonerSpells ( heal, ignite, barrier, eshoust, smite)
+			- Changed ( Setting AutoE Zed ) to Toogle on basic Kay {H}
+			- Added Khazix (QWE supported)
