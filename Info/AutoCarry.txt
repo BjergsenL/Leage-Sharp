@@ -48,3 +48,5 @@ AutoCarry information
 			- Added Khazix (QWE supported)
 02.09.2014 --v27
 			- Zyra Added
+02.09.2014 -- v28 
+			- added Yomos Gunblade to items
