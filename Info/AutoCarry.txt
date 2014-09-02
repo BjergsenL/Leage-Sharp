@@ -46,3 +46,5 @@ AutoCarry information
 			- Added SummonerSpells ( heal, ignite, barrier, eshoust, smite)
 			- Changed ( Setting AutoE Zed ) to Toogle on basic Kay {H}
 			- Added Khazix (QWE supported)
+02.09.2014 --v27
+			- Zyra Added
