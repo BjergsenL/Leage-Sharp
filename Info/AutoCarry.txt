@@ -50,3 +50,5 @@ AutoCarry information
 			- Zyra Added
 02.09.2014 -- v28 
 			- added Yomos Gunblade to items
+03.09.2014 -- v32
+			- added MissFortune
