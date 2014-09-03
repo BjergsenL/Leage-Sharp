@@ -52,3 +52,5 @@ AutoCarry information
 			- added Yomos Gunblade to items
 03.09.2014 -- v32
 			- added MissFortune
+03.09.2014 -- v35
+			- changed something on the autoupdate, should now always safe backups and not try to delite it
