@@ -54,3 +54,7 @@ AutoCarry information
 			- added MissFortune
 03.09.2014 -- v35
 			- changed something on the autoupdate, should now always safe backups and not try to delite it
+03.09.2014 -- v36
+			- Fix ( Yomos Gunblade was casting sometimes to early )
+			- Change ( Exhoust will now calculate if a Enemy can kill a friend in range withing 3 Seconds before he cast exhoust on him)
+			
