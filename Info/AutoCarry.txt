@@ -48,7 +48,7 @@ AutoCarry information
 			- Added Khazix (QWE supported)
 02.09.2014 --v27
 			- Zyra Added
-02.09.2014 -- v28 
+02.09.2014 -- v28
 			- added Yomos Gunblade to items
 03.09.2014 -- v32
 			- added MissFortune
@@ -67,3 +67,8 @@ AutoCarry information
 			- Swain Released
 04.09.2014 -- v41
 			- changed UC so that he safe all Menuitems for every champ diffrent, and not global ( if you wanna config your champ make it one time and it will stay like it is and will not change something for other champs)
+04.09.2014 -- v42
+			- changed Plantlogig zyra ( cast now 2 if possible )
+			- fixed bug harras e not deactivateable
+04.09.2014 -- v43
+			-modified lulu R Casts to caast earlyer
