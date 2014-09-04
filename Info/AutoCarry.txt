@@ -65,3 +65,5 @@ AutoCarry information
 			- Modified Lulu Ult ( not cast if lowlife in safe range )
 04.09.2014 --v40
 			- Swain Released
+04.09.2014 -- v41
+			- changed UC so that he safe all Menuitems for every champ diffrent, and not global ( if you wanna config your champ make it one time and it will stay like it is and will not change something for other champs)
