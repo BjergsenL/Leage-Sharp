@@ -63,3 +63,5 @@ AutoCarry information
 			- Codechanged for making new champs easyer to add.
 04.09.2014 --v38
 			- Modified Lulu Ult ( not cast if lowlife in safe range )
+04.09.2014 --v40
+			- Swain Released
