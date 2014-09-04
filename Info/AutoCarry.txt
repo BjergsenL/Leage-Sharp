@@ -57,4 +57,7 @@ AutoCarry information
 03.09.2014 -- v36
 			- Fix ( Yomos Gunblade was casting sometimes to early )
 			- Change ( Exhoust will now calculate if a Enemy can kill a friend in range withing 3 Seconds before he cast exhoust on him)
-			
+04.09.2014 --v37
+			-Added Lulu
+			- SmartR, Aggro/Passivemode, can use MInions for longer Qrange, Cast Q from Pix, supportmode ( wont hit minions in harass)
+			- Codechanged for making new champs easyer to add.
