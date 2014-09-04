@@ -61,3 +61,5 @@ AutoCarry information
 			-Added Lulu
 			- SmartR, Aggro/Passivemode, can use MInions for longer Qrange, Cast Q from Pix, supportmode ( wont hit minions in harass)
 			- Codechanged for making new champs easyer to add.
+04.09.2014 --v38
+			- Modified Lulu Ult ( not cast if lowlife in safe range )
